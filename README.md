@@ -1,12 +1,12 @@
 # Architecto
 
-Architecto is a command line tool for generating project structures based on different microservices architectures.
+Architecto is a command line tool for generating project structures based on different microservices architectures, specifically designed for use with Node.js.
 
 ## Installation
 
 To install Architecto, you can use npm:
 
-`npm install -g architecto`
+`npm install -g architecto-node`
 
 ## Usage
 
