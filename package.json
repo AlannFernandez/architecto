@@ -12,5 +12,9 @@
     "project structure"
   ],
   "author": "Alan Fernandez",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlannFernandez/architecto/issues"
+  },
+  "homepage": "https://github.com/AlannFernandez/architecto"
 }
