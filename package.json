@@ -1,0 +1,16 @@
+{
+  "name": "arquitecto",
+  "version": "1.0.0",
+  "description": "A command line tool for generating project structures based on different microservices architectures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservices",
+    "architecture",
+    "project structure"
+  ],
+  "author": "Alan Fernandez",
+  "license": "ISC"
+}
